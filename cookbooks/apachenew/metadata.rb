@@ -1,0 +1,7 @@
+name 'apachenew'
+maintainer 'srikanth'
+maintainer_email 'sriredspot@gmail.com'
+license 'all_rights'
+description 'Installs/Configures apachenew'
+long_description 'Installs/Configures apachenew'
+version '0.2.1'
